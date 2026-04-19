@@ -12,15 +12,15 @@
     "products": [
       {
         "title": "Point of Sale",
-        "image": "/src/assets/image/businessprovider.webp"
+        "image": "/images/businessprovider.webp"
       },
       {
         "title": "Self-service",
-        "image": "/src/assets/image/self.webp"
+        "image": "/images/self.webp"
       },
       {
         "title": "Kitchen Management",
-        "image": "/src/assets/image/kitchen.webp"
+        "image": "/images/kitchen.webp"
       }
     ]
   }
