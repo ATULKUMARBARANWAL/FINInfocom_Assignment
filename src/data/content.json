@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "headlinePrefix": "Looking for a new",
+    "headlineGradient": "technology provider?",
+    "subheadline": "Explore our success stories to see how businesses like yours have transformed.",
+    "cta": "Learn more"
+  },
+  "features": {
+    "title": "More ways Grafterr can help you",
+    "titleAccent": "grow your business",
+    "subtitle": "An award-winning platform designed to streamline operations.",
+    "products": [
+      {
+        "title": "Point of Sale",
+        "image": "/src/assets/image/businessprovider.webp"
+      },
+      {
+        "title": "Self-service",
+        "image": "/src/assets/image/self.webp"
+      },
+      {
+        "title": "Kitchen Management",
+        "image": "/src/assets/image/kitchen.webp"
+      }
+    ]
+  }
+}
