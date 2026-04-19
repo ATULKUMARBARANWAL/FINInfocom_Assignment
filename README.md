@@ -47,7 +47,7 @@ A pixel-perfect, responsive landing page built using React based on the provided
 3. Run: npm run dev
 
 ## 🌐 Live Demo
-(Add your deployed link here)
+[https://fin-infocom-assignment.vercel.app/](https://fin-infocom-assignment.vercel.app/)
 
 ## 👨‍💻 Author
 Atul Baranwal
